@@ -1,0 +1,1001 @@
+id,text,is_bullying,label
+sent_0001,"bakat ga ada kampungan, plis deh ilang aja.",1,cyber_stalking
+sent_0002,"baju lu ga mutu, mending hapus akun.",1,hate_speech
+sent_0003,"bakat ga ada sok asik, mending hapus akun.",1,harassment
+sent_0004,"baju lu bikin enek, bikin sampah doang.",1,body_shaming
+sent_0005,"bakat ga ada jelek banget, mending hapus akun.",1,body_shaming
+sent_0006,"muka lu pansos doang, ngaca dulu deh.",1,cyber_stalking
+sent_0007,"otak cetek pansos doang, ngaca dulu deh.",1,harassment
+sent_0008,"bakat ga ada bikin enek, ngaca dulu deh.",1,hate_speech
+sent_0009,"konten lu bikin enek, mending hapus akun.",1,harassment
+sent_0010,"akting lu bikin enek, ngaca dulu deh.",1,harassment
+sent_0011,"bakat ga ada bikin enek, ngaca dulu deh.",1,hate_speech
+sent_0012,"bakat ga ada pansos doang, plis deh ilang aja.",1,body_shaming
+sent_0013,"muka lu bikin enek, mending hapus akun.",1,body_shaming
+sent_0014,"bakat ga ada bikin enek, ga usah sok ngartis.",1,cyber_stalking
+sent_0015,"muka lu jelek banget, plis deh ilang aja.",1,cyber_stalking
+sent_0016,"bakat ga ada bikin enek, ga usah sok ngartis.",1,body_shaming
+sent_0017,"konten lu kampungan, plis deh ilang aja.",1,hate_speech
+sent_0018,"muka lu bikin enek, bikin sampah doang.",1,body_shaming
+sent_0019,"akting lu sok asik, mending hapus akun.",1,cyber_stalking
+sent_0020,"akting lu sok asik, ngaca dulu deh.",1,harassment
+sent_0021,"akting lu pansos doang, mending hapus akun.",1,body_shaming
+sent_0022,"bakat ga ada ga mutu, mending hapus akun.",1,harassment
+sent_0023,"konten lu ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0024,"otak cetek ga mutu, mending hapus akun.",1,hate_speech
+sent_0025,"konten lu sok asik, mending hapus akun.",1,hate_speech
+sent_0026,"baju lu ga mutu, mending hapus akun.",1,cyber_stalking
+sent_0027,"muka lu jelek banget, plis deh ilang aja.",1,cyber_stalking
+sent_0028,"konten lu bikin enek, plis deh ilang aja.",1,body_shaming
+sent_0029,"konten lu pansos doang, ngaca dulu deh.",1,body_shaming
+sent_0030,"akting lu sok asik, plis deh ilang aja.",1,hate_speech
+sent_0031,"baju lu kampungan, mending hapus akun.",1,cyber_stalking
+sent_0032,"bakat ga ada pansos doang, mending hapus akun.",1,body_shaming
+sent_0033,"konten lu kampungan, ngaca dulu deh.",1,body_shaming
+sent_0034,"otak cetek jelek banget, ga usah sok ngartis.",1,hate_speech
+sent_0035,"otak cetek kampungan, bikin sampah doang.",1,body_shaming
+sent_0036,"konten lu bikin enek, plis deh ilang aja.",1,harassment
+sent_0037,"otak cetek bikin enek, ga usah sok ngartis.",1,cyber_stalking
+sent_0038,"baju lu pansos doang, ngaca dulu deh.",1,cyber_stalking
+sent_0039,"baju lu jelek banget, bikin sampah doang.",1,hate_speech
+sent_0040,"konten lu kampungan, mending hapus akun.",1,hate_speech
+sent_0041,"akting lu ga mutu, mending hapus akun.",1,cyber_stalking
+sent_0042,"muka lu ga mutu, plis deh ilang aja.",1,cyber_stalking
+sent_0043,"akting lu sok asik, ngaca dulu deh.",1,body_shaming
+sent_0044,"konten lu ga mutu, bikin sampah doang.",1,cyber_stalking
+sent_0045,"muka lu bikin enek, bikin sampah doang.",1,harassment
+sent_0046,"muka lu bikin enek, bikin sampah doang.",1,cyber_stalking
+sent_0047,"muka lu ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0048,"baju lu bikin enek, bikin sampah doang.",1,hate_speech
+sent_0049,"baju lu pansos doang, mending hapus akun.",1,body_shaming
+sent_0050,"akting lu pansos doang, ga usah sok ngartis.",1,cyber_stalking
+sent_0051,"akting lu kampungan, bikin sampah doang.",1,harassment
+sent_0052,"otak cetek kampungan, mending hapus akun.",1,body_shaming
+sent_0053,"akting lu bikin enek, ga usah sok ngartis.",1,harassment
+sent_0054,"baju lu kampungan, plis deh ilang aja.",1,cyber_stalking
+sent_0055,"konten lu ga mutu, mending hapus akun.",1,harassment
+sent_0056,"otak cetek pansos doang, ga usah sok ngartis.",1,harassment
+sent_0057,"baju lu sok asik, ngaca dulu deh.",1,cyber_stalking
+sent_0058,"konten lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0059,"akting lu bikin enek, mending hapus akun.",1,body_shaming
+sent_0060,"otak cetek ga mutu, ga usah sok ngartis.",1,harassment
+sent_0061,"konten lu sok asik, ga usah sok ngartis.",1,body_shaming
+sent_0062,"konten lu ga mutu, ga usah sok ngartis.",1,body_shaming
+sent_0063,"muka lu bikin enek, mending hapus akun.",1,hate_speech
+sent_0064,"konten lu ga mutu, ngaca dulu deh.",1,hate_speech
+sent_0065,"konten lu kampungan, mending hapus akun.",1,cyber_stalking
+sent_0066,"akting lu pansos doang, bikin sampah doang.",1,cyber_stalking
+sent_0067,"baju lu pansos doang, ga usah sok ngartis.",1,body_shaming
+sent_0068,"baju lu sok asik, bikin sampah doang.",1,cyber_stalking
+sent_0069,"bakat ga ada jelek banget, mending hapus akun.",1,harassment
+sent_0070,"konten lu ga mutu, bikin sampah doang.",1,hate_speech
+sent_0071,"muka lu kampungan, mending hapus akun.",1,cyber_stalking
+sent_0072,"akting lu jelek banget, ga usah sok ngartis.",1,body_shaming
+sent_0073,"otak cetek kampungan, mending hapus akun.",1,hate_speech
+sent_0074,"muka lu ga mutu, ngaca dulu deh.",1,hate_speech
+sent_0075,"konten lu ga mutu, mending hapus akun.",1,hate_speech
+sent_0076,"muka lu pansos doang, plis deh ilang aja.",1,cyber_stalking
+sent_0077,"konten lu jelek banget, mending hapus akun.",1,body_shaming
+sent_0078,"konten lu sok asik, ngaca dulu deh.",1,body_shaming
+sent_0079,"akting lu sok asik, mending hapus akun.",1,body_shaming
+sent_0080,"konten lu ga mutu, mending hapus akun.",1,cyber_stalking
+sent_0081,"bakat ga ada jelek banget, mending hapus akun.",1,cyber_stalking
+sent_0082,"muka lu jelek banget, bikin sampah doang.",1,cyber_stalking
+sent_0083,"muka lu pansos doang, plis deh ilang aja.",1,cyber_stalking
+sent_0084,"akting lu ga mutu, ngaca dulu deh.",1,hate_speech
+sent_0085,"otak cetek pansos doang, ngaca dulu deh.",1,body_shaming
+sent_0086,"bakat ga ada pansos doang, ngaca dulu deh.",1,hate_speech
+sent_0087,"otak cetek pansos doang, bikin sampah doang.",1,harassment
+sent_0088,"otak cetek ga mutu, bikin sampah doang.",1,hate_speech
+sent_0089,"baju lu kampungan, bikin sampah doang.",1,cyber_stalking
+sent_0090,"akting lu kampungan, ngaca dulu deh.",1,harassment
+sent_0091,"baju lu sok asik, ngaca dulu deh.",1,cyber_stalking
+sent_0092,"otak cetek sok asik, ngaca dulu deh.",1,cyber_stalking
+sent_0093,"otak cetek sok asik, ngaca dulu deh.",1,hate_speech
+sent_0094,"konten lu jelek banget, bikin sampah doang.",1,harassment
+sent_0095,"muka lu ga mutu, plis deh ilang aja.",1,harassment
+sent_0096,"akting lu bikin enek, plis deh ilang aja.",1,harassment
+sent_0097,"konten lu jelek banget, ga usah sok ngartis.",1,cyber_stalking
+sent_0098,"akting lu bikin enek, mending hapus akun.",1,hate_speech
+sent_0099,"akting lu kampungan, bikin sampah doang.",1,hate_speech
+sent_0100,"muka lu pansos doang, mending hapus akun.",1,harassment
+sent_0101,"muka lu ga mutu, ngaca dulu deh.",1,harassment
+sent_0102,"bakat ga ada pansos doang, ngaca dulu deh.",1,hate_speech
+sent_0103,"bakat ga ada ga mutu, ngaca dulu deh.",1,hate_speech
+sent_0104,"konten lu kampungan, ga usah sok ngartis.",1,harassment
+sent_0105,"konten lu bikin enek, plis deh ilang aja.",1,body_shaming
+sent_0106,"otak cetek ga mutu, ngaca dulu deh.",1,harassment
+sent_0107,"muka lu pansos doang, mending hapus akun.",1,harassment
+sent_0108,"baju lu pansos doang, mending hapus akun.",1,hate_speech
+sent_0109,"baju lu pansos doang, plis deh ilang aja.",1,cyber_stalking
+sent_0110,"muka lu kampungan, ngaca dulu deh.",1,body_shaming
+sent_0111,"otak cetek bikin enek, ngaca dulu deh.",1,body_shaming
+sent_0112,"otak cetek pansos doang, mending hapus akun.",1,body_shaming
+sent_0113,"otak cetek ga mutu, plis deh ilang aja.",1,cyber_stalking
+sent_0114,"otak cetek pansos doang, mending hapus akun.",1,body_shaming
+sent_0115,"akting lu sok asik, mending hapus akun.",1,harassment
+sent_0116,"muka lu bikin enek, bikin sampah doang.",1,cyber_stalking
+sent_0117,"konten lu pansos doang, ga usah sok ngartis.",1,hate_speech
+sent_0118,"bakat ga ada kampungan, bikin sampah doang.",1,cyber_stalking
+sent_0119,"baju lu pansos doang, bikin sampah doang.",1,harassment
+sent_0120,"otak cetek bikin enek, ngaca dulu deh.",1,body_shaming
+sent_0121,"akting lu jelek banget, bikin sampah doang.",1,hate_speech
+sent_0122,"konten lu kampungan, mending hapus akun.",1,cyber_stalking
+sent_0123,"akting lu kampungan, ga usah sok ngartis.",1,harassment
+sent_0124,"bakat ga ada jelek banget, ga usah sok ngartis.",1,cyber_stalking
+sent_0125,"otak cetek bikin enek, plis deh ilang aja.",1,body_shaming
+sent_0126,"otak cetek sok asik, plis deh ilang aja.",1,hate_speech
+sent_0127,"baju lu kampungan, bikin sampah doang.",1,body_shaming
+sent_0128,"akting lu kampungan, plis deh ilang aja.",1,cyber_stalking
+sent_0129,"bakat ga ada kampungan, ga usah sok ngartis.",1,harassment
+sent_0130,"akting lu jelek banget, bikin sampah doang.",1,harassment
+sent_0131,"konten lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0132,"akting lu pansos doang, bikin sampah doang.",1,hate_speech
+sent_0133,"baju lu ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0134,"konten lu ga mutu, bikin sampah doang.",1,body_shaming
+sent_0135,"muka lu kampungan, bikin sampah doang.",1,body_shaming
+sent_0136,"konten lu kampungan, plis deh ilang aja.",1,body_shaming
+sent_0137,"otak cetek sok asik, ngaca dulu deh.",1,harassment
+sent_0138,"konten lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0139,"baju lu sok asik, ngaca dulu deh.",1,body_shaming
+sent_0140,"konten lu sok asik, plis deh ilang aja.",1,harassment
+sent_0141,"baju lu bikin enek, bikin sampah doang.",1,harassment
+sent_0142,"baju lu kampungan, ga usah sok ngartis.",1,cyber_stalking
+sent_0143,"muka lu jelek banget, plis deh ilang aja.",1,harassment
+sent_0144,"otak cetek ga mutu, plis deh ilang aja.",1,body_shaming
+sent_0145,"konten lu jelek banget, plis deh ilang aja.",1,cyber_stalking
+sent_0146,"muka lu sok asik, bikin sampah doang.",1,harassment
+sent_0147,"konten lu ga mutu, ga usah sok ngartis.",1,harassment
+sent_0148,"akting lu ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0149,"muka lu bikin enek, mending hapus akun.",1,hate_speech
+sent_0150,"muka lu bikin enek, ngaca dulu deh.",1,cyber_stalking
+sent_0151,"bakat ga ada sok asik, mending hapus akun.",1,cyber_stalking
+sent_0152,"otak cetek kampungan, ngaca dulu deh.",1,body_shaming
+sent_0153,"otak cetek bikin enek, ga usah sok ngartis.",1,cyber_stalking
+sent_0154,"konten lu pansos doang, ga usah sok ngartis.",1,harassment
+sent_0155,"konten lu ga mutu, plis deh ilang aja.",1,cyber_stalking
+sent_0156,"muka lu sok asik, mending hapus akun.",1,body_shaming
+sent_0157,"otak cetek sok asik, ngaca dulu deh.",1,cyber_stalking
+sent_0158,"akting lu jelek banget, ga usah sok ngartis.",1,cyber_stalking
+sent_0159,"akting lu bikin enek, mending hapus akun.",1,harassment
+sent_0160,"muka lu pansos doang, mending hapus akun.",1,harassment
+sent_0161,"konten lu bikin enek, ga usah sok ngartis.",1,harassment
+sent_0162,"bakat ga ada jelek banget, ngaca dulu deh.",1,harassment
+sent_0163,"akting lu kampungan, plis deh ilang aja.",1,harassment
+sent_0164,"bakat ga ada sok asik, plis deh ilang aja.",1,harassment
+sent_0165,"muka lu sok asik, ga usah sok ngartis.",1,harassment
+sent_0166,"muka lu pansos doang, bikin sampah doang.",1,body_shaming
+sent_0167,"otak cetek kampungan, ngaca dulu deh.",1,hate_speech
+sent_0168,"otak cetek sok asik, ga usah sok ngartis.",1,harassment
+sent_0169,"otak cetek pansos doang, ngaca dulu deh.",1,harassment
+sent_0170,"muka lu pansos doang, bikin sampah doang.",1,harassment
+sent_0171,"bakat ga ada kampungan, mending hapus akun.",1,hate_speech
+sent_0172,"konten lu kampungan, bikin sampah doang.",1,body_shaming
+sent_0173,"bakat ga ada pansos doang, mending hapus akun.",1,harassment
+sent_0174,"konten lu bikin enek, bikin sampah doang.",1,harassment
+sent_0175,"bakat ga ada bikin enek, mending hapus akun.",1,harassment
+sent_0176,"konten lu jelek banget, ga usah sok ngartis.",1,body_shaming
+sent_0177,"konten lu pansos doang, plis deh ilang aja.",1,hate_speech
+sent_0178,"bakat ga ada bikin enek, ngaca dulu deh.",1,body_shaming
+sent_0179,"akting lu jelek banget, mending hapus akun.",1,harassment
+sent_0180,"akting lu jelek banget, mending hapus akun.",1,hate_speech
+sent_0181,"akting lu bikin enek, bikin sampah doang.",1,hate_speech
+sent_0182,"akting lu bikin enek, ga usah sok ngartis.",1,hate_speech
+sent_0183,"akting lu ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0184,"baju lu pansos doang, mending hapus akun.",1,hate_speech
+sent_0185,"muka lu kampungan, mending hapus akun.",1,cyber_stalking
+sent_0186,"akting lu ga mutu, plis deh ilang aja.",1,body_shaming
+sent_0187,"otak cetek sok asik, bikin sampah doang.",1,hate_speech
+sent_0188,"muka lu jelek banget, mending hapus akun.",1,hate_speech
+sent_0189,"bakat ga ada kampungan, ga usah sok ngartis.",1,harassment
+sent_0190,"otak cetek sok asik, mending hapus akun.",1,harassment
+sent_0191,"baju lu jelek banget, ga usah sok ngartis.",1,hate_speech
+sent_0192,"konten lu pansos doang, mending hapus akun.",1,harassment
+sent_0193,"akting lu sok asik, plis deh ilang aja.",1,harassment
+sent_0194,"akting lu sok asik, ngaca dulu deh.",1,harassment
+sent_0195,"otak cetek ga mutu, ngaca dulu deh.",1,harassment
+sent_0196,"muka lu bikin enek, ngaca dulu deh.",1,body_shaming
+sent_0197,"baju lu bikin enek, bikin sampah doang.",1,hate_speech
+sent_0198,"otak cetek sok asik, mending hapus akun.",1,cyber_stalking
+sent_0199,"baju lu ga mutu, ga usah sok ngartis.",1,body_shaming
+sent_0200,"konten lu pansos doang, plis deh ilang aja.",1,body_shaming
+sent_0201,"otak cetek ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0202,"muka lu ga mutu, ga usah sok ngartis.",1,harassment
+sent_0203,"konten lu jelek banget, plis deh ilang aja.",1,hate_speech
+sent_0204,"bakat ga ada bikin enek, mending hapus akun.",1,body_shaming
+sent_0205,"konten lu sok asik, bikin sampah doang.",1,harassment
+sent_0206,"otak cetek ga mutu, bikin sampah doang.",1,body_shaming
+sent_0207,"bakat ga ada ga mutu, mending hapus akun.",1,harassment
+sent_0208,"konten lu kampungan, plis deh ilang aja.",1,hate_speech
+sent_0209,"akting lu pansos doang, mending hapus akun.",1,harassment
+sent_0210,"bakat ga ada sok asik, bikin sampah doang.",1,hate_speech
+sent_0211,"akting lu bikin enek, plis deh ilang aja.",1,harassment
+sent_0212,"konten lu sok asik, mending hapus akun.",1,harassment
+sent_0213,"muka lu sok asik, bikin sampah doang.",1,hate_speech
+sent_0214,"bakat ga ada ga mutu, bikin sampah doang.",1,hate_speech
+sent_0215,"bakat ga ada sok asik, ga usah sok ngartis.",1,cyber_stalking
+sent_0216,"bakat ga ada kampungan, bikin sampah doang.",1,harassment
+sent_0217,"baju lu ga mutu, mending hapus akun.",1,harassment
+sent_0218,"bakat ga ada pansos doang, plis deh ilang aja.",1,hate_speech
+sent_0219,"baju lu ga mutu, bikin sampah doang.",1,harassment
+sent_0220,"otak cetek jelek banget, mending hapus akun.",1,hate_speech
+sent_0221,"konten lu sok asik, mending hapus akun.",1,hate_speech
+sent_0222,"otak cetek ga mutu, plis deh ilang aja.",1,cyber_stalking
+sent_0223,"akting lu bikin enek, plis deh ilang aja.",1,harassment
+sent_0224,"otak cetek jelek banget, mending hapus akun.",1,cyber_stalking
+sent_0225,"akting lu pansos doang, mending hapus akun.",1,harassment
+sent_0226,"muka lu bikin enek, plis deh ilang aja.",1,hate_speech
+sent_0227,"akting lu kampungan, ga usah sok ngartis.",1,hate_speech
+sent_0228,"muka lu bikin enek, ga usah sok ngartis.",1,hate_speech
+sent_0229,"baju lu pansos doang, ngaca dulu deh.",1,hate_speech
+sent_0230,"otak cetek pansos doang, bikin sampah doang.",1,cyber_stalking
+sent_0231,"bakat ga ada kampungan, ga usah sok ngartis.",1,hate_speech
+sent_0232,"muka lu ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0233,"otak cetek sok asik, ga usah sok ngartis.",1,body_shaming
+sent_0234,"akting lu ga mutu, plis deh ilang aja.",1,harassment
+sent_0235,"muka lu jelek banget, ga usah sok ngartis.",1,harassment
+sent_0236,"baju lu sok asik, ga usah sok ngartis.",1,cyber_stalking
+sent_0237,"konten lu ga mutu, mending hapus akun.",1,harassment
+sent_0238,"bakat ga ada kampungan, mending hapus akun.",1,body_shaming
+sent_0239,"akting lu bikin enek, mending hapus akun.",1,cyber_stalking
+sent_0240,"otak cetek bikin enek, ngaca dulu deh.",1,cyber_stalking
+sent_0241,"bakat ga ada bikin enek, bikin sampah doang.",1,hate_speech
+sent_0242,"konten lu bikin enek, ga usah sok ngartis.",1,harassment
+sent_0243,"otak cetek ga mutu, bikin sampah doang.",1,harassment
+sent_0244,"otak cetek jelek banget, ga usah sok ngartis.",1,harassment
+sent_0245,"akting lu sok asik, bikin sampah doang.",1,cyber_stalking
+sent_0246,"konten lu pansos doang, ga usah sok ngartis.",1,hate_speech
+sent_0247,"akting lu kampungan, bikin sampah doang.",1,body_shaming
+sent_0248,"akting lu pansos doang, ga usah sok ngartis.",1,harassment
+sent_0249,"muka lu sok asik, ngaca dulu deh.",1,cyber_stalking
+sent_0250,"akting lu sok asik, plis deh ilang aja.",1,body_shaming
+sent_0251,"bakat ga ada bikin enek, ngaca dulu deh.",1,cyber_stalking
+sent_0252,"bakat ga ada bikin enek, plis deh ilang aja.",1,hate_speech
+sent_0253,"konten lu bikin enek, mending hapus akun.",1,body_shaming
+sent_0254,"akting lu pansos doang, plis deh ilang aja.",1,hate_speech
+sent_0255,"bakat ga ada ga mutu, bikin sampah doang.",1,hate_speech
+sent_0256,"muka lu jelek banget, ga usah sok ngartis.",1,cyber_stalking
+sent_0257,"baju lu pansos doang, bikin sampah doang.",1,body_shaming
+sent_0258,"bakat ga ada ga mutu, ga usah sok ngartis.",1,cyber_stalking
+sent_0259,"bakat ga ada sok asik, bikin sampah doang.",1,cyber_stalking
+sent_0260,"muka lu jelek banget, plis deh ilang aja.",1,body_shaming
+sent_0261,"muka lu bikin enek, ga usah sok ngartis.",1,body_shaming
+sent_0262,"bakat ga ada pansos doang, ngaca dulu deh.",1,body_shaming
+sent_0263,"akting lu sok asik, ga usah sok ngartis.",1,harassment
+sent_0264,"bakat ga ada kampungan, plis deh ilang aja.",1,cyber_stalking
+sent_0265,"muka lu pansos doang, ngaca dulu deh.",1,hate_speech
+sent_0266,"baju lu sok asik, plis deh ilang aja.",1,body_shaming
+sent_0267,"baju lu ga mutu, bikin sampah doang.",1,hate_speech
+sent_0268,"konten lu ga mutu, ngaca dulu deh.",1,cyber_stalking
+sent_0269,"muka lu ga mutu, plis deh ilang aja.",1,harassment
+sent_0270,"baju lu sok asik, mending hapus akun.",1,harassment
+sent_0271,"baju lu kampungan, mending hapus akun.",1,body_shaming
+sent_0272,"bakat ga ada pansos doang, mending hapus akun.",1,hate_speech
+sent_0273,"muka lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0274,"konten lu sok asik, ngaca dulu deh.",1,body_shaming
+sent_0275,"bakat ga ada sok asik, ngaca dulu deh.",1,hate_speech
+sent_0276,"baju lu jelek banget, plis deh ilang aja.",1,body_shaming
+sent_0277,"otak cetek ga mutu, bikin sampah doang.",1,cyber_stalking
+sent_0278,"muka lu bikin enek, ngaca dulu deh.",1,cyber_stalking
+sent_0279,"otak cetek sok asik, ga usah sok ngartis.",1,cyber_stalking
+sent_0280,"muka lu bikin enek, bikin sampah doang.",1,body_shaming
+sent_0281,"bakat ga ada kampungan, mending hapus akun.",1,body_shaming
+sent_0282,"muka lu ga mutu, ga usah sok ngartis.",1,harassment
+sent_0283,"muka lu kampungan, mending hapus akun.",1,body_shaming
+sent_0284,"muka lu kampungan, plis deh ilang aja.",1,hate_speech
+sent_0285,"baju lu bikin enek, bikin sampah doang.",1,body_shaming
+sent_0286,"bakat ga ada sok asik, mending hapus akun.",1,harassment
+sent_0287,"akting lu sok asik, plis deh ilang aja.",1,body_shaming
+sent_0288,"konten lu sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0289,"konten lu pansos doang, bikin sampah doang.",1,hate_speech
+sent_0290,"baju lu ga mutu, bikin sampah doang.",1,harassment
+sent_0291,"bakat ga ada sok asik, ga usah sok ngartis.",1,cyber_stalking
+sent_0292,"bakat ga ada pansos doang, bikin sampah doang.",1,body_shaming
+sent_0293,"akting lu kampungan, mending hapus akun.",1,cyber_stalking
+sent_0294,"akting lu pansos doang, ga usah sok ngartis.",1,harassment
+sent_0295,"konten lu bikin enek, ga usah sok ngartis.",1,hate_speech
+sent_0296,"baju lu bikin enek, ngaca dulu deh.",1,harassment
+sent_0297,"baju lu bikin enek, plis deh ilang aja.",1,body_shaming
+sent_0298,"konten lu bikin enek, mending hapus akun.",1,body_shaming
+sent_0299,"muka lu jelek banget, ngaca dulu deh.",1,harassment
+sent_0300,"otak cetek kampungan, mending hapus akun.",1,body_shaming
+sent_0301,"akting lu ga mutu, plis deh ilang aja.",1,body_shaming
+sent_0302,"bakat ga ada pansos doang, plis deh ilang aja.",1,harassment
+sent_0303,"muka lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0304,"bakat ga ada ga mutu, ga usah sok ngartis.",1,hate_speech
+sent_0305,"otak cetek jelek banget, mending hapus akun.",1,harassment
+sent_0306,"muka lu kampungan, mending hapus akun.",1,body_shaming
+sent_0307,"akting lu kampungan, mending hapus akun.",1,body_shaming
+sent_0308,"bakat ga ada bikin enek, mending hapus akun.",1,hate_speech
+sent_0309,"akting lu jelek banget, ga usah sok ngartis.",1,hate_speech
+sent_0310,"konten lu bikin enek, mending hapus akun.",1,body_shaming
+sent_0311,"konten lu ga mutu, bikin sampah doang.",1,hate_speech
+sent_0312,"baju lu pansos doang, ngaca dulu deh.",1,hate_speech
+sent_0313,"bakat ga ada ga mutu, mending hapus akun.",1,hate_speech
+sent_0314,"otak cetek bikin enek, ga usah sok ngartis.",1,body_shaming
+sent_0315,"bakat ga ada pansos doang, mending hapus akun.",1,hate_speech
+sent_0316,"akting lu sok asik, plis deh ilang aja.",1,harassment
+sent_0317,"muka lu pansos doang, plis deh ilang aja.",1,harassment
+sent_0318,"muka lu sok asik, plis deh ilang aja.",1,hate_speech
+sent_0319,"baju lu jelek banget, mending hapus akun.",1,hate_speech
+sent_0320,"konten lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0321,"otak cetek sok asik, plis deh ilang aja.",1,hate_speech
+sent_0322,"bakat ga ada sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0323,"konten lu jelek banget, plis deh ilang aja.",1,harassment
+sent_0324,"konten lu pansos doang, ga usah sok ngartis.",1,hate_speech
+sent_0325,"otak cetek pansos doang, plis deh ilang aja.",1,hate_speech
+sent_0326,"baju lu sok asik, bikin sampah doang.",1,body_shaming
+sent_0327,"bakat ga ada ga mutu, mending hapus akun.",1,harassment
+sent_0328,"akting lu bikin enek, ga usah sok ngartis.",1,hate_speech
+sent_0329,"akting lu pansos doang, bikin sampah doang.",1,harassment
+sent_0330,"otak cetek sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0331,"muka lu sok asik, mending hapus akun.",1,body_shaming
+sent_0332,"bakat ga ada kampungan, ga usah sok ngartis.",1,cyber_stalking
+sent_0333,"otak cetek kampungan, plis deh ilang aja.",1,harassment
+sent_0334,"bakat ga ada bikin enek, ngaca dulu deh.",1,body_shaming
+sent_0335,"baju lu ga mutu, plis deh ilang aja.",1,body_shaming
+sent_0336,"bakat ga ada pansos doang, ga usah sok ngartis.",1,body_shaming
+sent_0337,"baju lu ga mutu, plis deh ilang aja.",1,harassment
+sent_0338,"konten lu pansos doang, bikin sampah doang.",1,hate_speech
+sent_0339,"otak cetek ga mutu, ga usah sok ngartis.",1,body_shaming
+sent_0340,"baju lu bikin enek, plis deh ilang aja.",1,cyber_stalking
+sent_0341,"muka lu jelek banget, mending hapus akun.",1,cyber_stalking
+sent_0342,"bakat ga ada bikin enek, bikin sampah doang.",1,hate_speech
+sent_0343,"konten lu sok asik, bikin sampah doang.",1,cyber_stalking
+sent_0344,"akting lu jelek banget, ga usah sok ngartis.",1,cyber_stalking
+sent_0345,"konten lu ga mutu, plis deh ilang aja.",1,body_shaming
+sent_0346,"muka lu ga mutu, ga usah sok ngartis.",1,harassment
+sent_0347,"muka lu pansos doang, bikin sampah doang.",1,harassment
+sent_0348,"muka lu sok asik, ga usah sok ngartis.",1,harassment
+sent_0349,"konten lu pansos doang, mending hapus akun.",1,hate_speech
+sent_0350,"baju lu sok asik, mending hapus akun.",1,hate_speech
+sent_0351,"akting lu sok asik, ga usah sok ngartis.",1,harassment
+sent_0352,"baju lu jelek banget, mending hapus akun.",1,harassment
+sent_0353,"bakat ga ada bikin enek, ga usah sok ngartis.",1,harassment
+sent_0354,"bakat ga ada sok asik, mending hapus akun.",1,cyber_stalking
+sent_0355,"otak cetek sok asik, ga usah sok ngartis.",1,body_shaming
+sent_0356,"konten lu ga mutu, ga usah sok ngartis.",1,harassment
+sent_0357,"otak cetek ga mutu, ga usah sok ngartis.",1,hate_speech
+sent_0358,"muka lu sok asik, plis deh ilang aja.",1,body_shaming
+sent_0359,"konten lu ga mutu, mending hapus akun.",1,harassment
+sent_0360,"akting lu jelek banget, ga usah sok ngartis.",1,hate_speech
+sent_0361,"otak cetek bikin enek, bikin sampah doang.",1,cyber_stalking
+sent_0362,"otak cetek ga mutu, ngaca dulu deh.",1,hate_speech
+sent_0363,"otak cetek bikin enek, ga usah sok ngartis.",1,body_shaming
+sent_0364,"bakat ga ada jelek banget, ga usah sok ngartis.",1,body_shaming
+sent_0365,"konten lu bikin enek, ga usah sok ngartis.",1,hate_speech
+sent_0366,"baju lu ga mutu, mending hapus akun.",1,harassment
+sent_0367,"akting lu ga mutu, ga usah sok ngartis.",1,body_shaming
+sent_0368,"akting lu kampungan, ga usah sok ngartis.",1,hate_speech
+sent_0369,"baju lu pansos doang, plis deh ilang aja.",1,body_shaming
+sent_0370,"bakat ga ada bikin enek, ga usah sok ngartis.",1,hate_speech
+sent_0371,"baju lu jelek banget, ga usah sok ngartis.",1,harassment
+sent_0372,"konten lu pansos doang, ga usah sok ngartis.",1,cyber_stalking
+sent_0373,"otak cetek jelek banget, mending hapus akun.",1,hate_speech
+sent_0374,"baju lu pansos doang, mending hapus akun.",1,body_shaming
+sent_0375,"akting lu jelek banget, ngaca dulu deh.",1,cyber_stalking
+sent_0376,"bakat ga ada bikin enek, ngaca dulu deh.",1,body_shaming
+sent_0377,"konten lu jelek banget, mending hapus akun.",1,harassment
+sent_0378,"otak cetek sok asik, bikin sampah doang.",1,hate_speech
+sent_0379,"akting lu pansos doang, ga usah sok ngartis.",1,harassment
+sent_0380,"akting lu pansos doang, ngaca dulu deh.",1,cyber_stalking
+sent_0381,"akting lu pansos doang, plis deh ilang aja.",1,body_shaming
+sent_0382,"otak cetek pansos doang, bikin sampah doang.",1,harassment
+sent_0383,"otak cetek bikin enek, bikin sampah doang.",1,harassment
+sent_0384,"konten lu kampungan, mending hapus akun.",1,hate_speech
+sent_0385,"akting lu jelek banget, bikin sampah doang.",1,cyber_stalking
+sent_0386,"akting lu jelek banget, plis deh ilang aja.",1,hate_speech
+sent_0387,"akting lu sok asik, mending hapus akun.",1,hate_speech
+sent_0388,"muka lu ga mutu, ga usah sok ngartis.",1,harassment
+sent_0389,"bakat ga ada ga mutu, ngaca dulu deh.",1,hate_speech
+sent_0390,"akting lu jelek banget, plis deh ilang aja.",1,cyber_stalking
+sent_0391,"baju lu sok asik, mending hapus akun.",1,body_shaming
+sent_0392,"muka lu pansos doang, plis deh ilang aja.",1,hate_speech
+sent_0393,"bakat ga ada ga mutu, ngaca dulu deh.",1,harassment
+sent_0394,"baju lu sok asik, mending hapus akun.",1,body_shaming
+sent_0395,"muka lu jelek banget, plis deh ilang aja.",1,cyber_stalking
+sent_0396,"akting lu ga mutu, mending hapus akun.",1,hate_speech
+sent_0397,"konten lu sok asik, mending hapus akun.",1,harassment
+sent_0398,"muka lu bikin enek, ga usah sok ngartis.",1,cyber_stalking
+sent_0399,"baju lu kampungan, ngaca dulu deh.",1,cyber_stalking
+sent_0400,"otak cetek jelek banget, bikin sampah doang.",1,body_shaming
+sent_0401,"akting lu jelek banget, ga usah sok ngartis.",1,harassment
+sent_0402,"konten lu ga mutu, ngaca dulu deh.",1,cyber_stalking
+sent_0403,"baju lu ga mutu, ngaca dulu deh.",1,body_shaming
+sent_0404,"muka lu jelek banget, ga usah sok ngartis.",1,harassment
+sent_0405,"baju lu jelek banget, mending hapus akun.",1,hate_speech
+sent_0406,"otak cetek jelek banget, ga usah sok ngartis.",1,body_shaming
+sent_0407,"muka lu pansos doang, plis deh ilang aja.",1,cyber_stalking
+sent_0408,"bakat ga ada jelek banget, bikin sampah doang.",1,cyber_stalking
+sent_0409,"bakat ga ada sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0410,"muka lu ga mutu, mending hapus akun.",1,body_shaming
+sent_0411,"muka lu ga mutu, mending hapus akun.",1,hate_speech
+sent_0412,"bakat ga ada bikin enek, bikin sampah doang.",1,body_shaming
+sent_0413,"konten lu jelek banget, bikin sampah doang.",1,harassment
+sent_0414,"konten lu sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0415,"bakat ga ada jelek banget, ga usah sok ngartis.",1,body_shaming
+sent_0416,"baju lu sok asik, ga usah sok ngartis.",1,cyber_stalking
+sent_0417,"akting lu kampungan, plis deh ilang aja.",1,body_shaming
+sent_0418,"baju lu ga mutu, bikin sampah doang.",1,cyber_stalking
+sent_0419,"bakat ga ada ga mutu, ga usah sok ngartis.",1,harassment
+sent_0420,"baju lu jelek banget, mending hapus akun.",1,body_shaming
+sent_0421,"baju lu sok asik, bikin sampah doang.",1,hate_speech
+sent_0422,"muka lu ga mutu, ngaca dulu deh.",1,harassment
+sent_0423,"bakat ga ada sok asik, ngaca dulu deh.",1,hate_speech
+sent_0424,"baju lu jelek banget, bikin sampah doang.",1,hate_speech
+sent_0425,"akting lu bikin enek, plis deh ilang aja.",1,cyber_stalking
+sent_0426,"otak cetek pansos doang, bikin sampah doang.",1,harassment
+sent_0427,"otak cetek kampungan, mending hapus akun.",1,harassment
+sent_0428,"bakat ga ada pansos doang, plis deh ilang aja.",1,cyber_stalking
+sent_0429,"baju lu pansos doang, bikin sampah doang.",1,body_shaming
+sent_0430,"akting lu jelek banget, ga usah sok ngartis.",1,body_shaming
+sent_0431,"baju lu pansos doang, ga usah sok ngartis.",1,body_shaming
+sent_0432,"baju lu sok asik, plis deh ilang aja.",1,hate_speech
+sent_0433,"otak cetek sok asik, ngaca dulu deh.",1,hate_speech
+sent_0434,"muka lu kampungan, bikin sampah doang.",1,cyber_stalking
+sent_0435,"muka lu pansos doang, ga usah sok ngartis.",1,body_shaming
+sent_0436,"konten lu kampungan, ga usah sok ngartis.",1,harassment
+sent_0437,"bakat ga ada jelek banget, plis deh ilang aja.",1,harassment
+sent_0438,"baju lu ga mutu, ga usah sok ngartis.",1,body_shaming
+sent_0439,"bakat ga ada ga mutu, plis deh ilang aja.",1,harassment
+sent_0440,"konten lu ga mutu, ga usah sok ngartis.",1,harassment
+sent_0441,"muka lu bikin enek, mending hapus akun.",1,cyber_stalking
+sent_0442,"baju lu jelek banget, bikin sampah doang.",1,body_shaming
+sent_0443,"muka lu kampungan, plis deh ilang aja.",1,hate_speech
+sent_0444,"konten lu sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0445,"baju lu kampungan, plis deh ilang aja.",1,body_shaming
+sent_0446,"konten lu kampungan, bikin sampah doang.",1,cyber_stalking
+sent_0447,"bakat ga ada bikin enek, bikin sampah doang.",1,body_shaming
+sent_0448,"akting lu pansos doang, plis deh ilang aja.",1,cyber_stalking
+sent_0449,"otak cetek sok asik, ngaca dulu deh.",1,cyber_stalking
+sent_0450,"baju lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0451,"bakat ga ada bikin enek, ga usah sok ngartis.",1,body_shaming
+sent_0452,"muka lu pansos doang, ga usah sok ngartis.",1,hate_speech
+sent_0453,"akting lu pansos doang, ngaca dulu deh.",1,harassment
+sent_0454,"bakat ga ada kampungan, bikin sampah doang.",1,harassment
+sent_0455,"konten lu sok asik, mending hapus akun.",1,body_shaming
+sent_0456,"konten lu jelek banget, ga usah sok ngartis.",1,cyber_stalking
+sent_0457,"konten lu jelek banget, ngaca dulu deh.",1,cyber_stalking
+sent_0458,"otak cetek sok asik, ngaca dulu deh.",1,body_shaming
+sent_0459,"akting lu bikin enek, mending hapus akun.",1,cyber_stalking
+sent_0460,"bakat ga ada jelek banget, ngaca dulu deh.",1,harassment
+sent_0461,"otak cetek jelek banget, mending hapus akun.",1,harassment
+sent_0462,"bakat ga ada ga mutu, bikin sampah doang.",1,cyber_stalking
+sent_0463,"konten lu sok asik, ngaca dulu deh.",1,body_shaming
+sent_0464,"otak cetek kampungan, plis deh ilang aja.",1,cyber_stalking
+sent_0465,"konten lu kampungan, ga usah sok ngartis.",1,body_shaming
+sent_0466,"akting lu pansos doang, ga usah sok ngartis.",1,harassment
+sent_0467,"akting lu sok asik, ngaca dulu deh.",1,cyber_stalking
+sent_0468,"konten lu sok asik, bikin sampah doang.",1,harassment
+sent_0469,"muka lu pansos doang, plis deh ilang aja.",1,body_shaming
+sent_0470,"akting lu ga mutu, ngaca dulu deh.",1,cyber_stalking
+sent_0471,"akting lu bikin enek, plis deh ilang aja.",1,hate_speech
+sent_0472,"konten lu sok asik, ngaca dulu deh.",1,hate_speech
+sent_0473,"akting lu jelek banget, plis deh ilang aja.",1,body_shaming
+sent_0474,"otak cetek ga mutu, plis deh ilang aja.",1,hate_speech
+sent_0475,"muka lu jelek banget, ga usah sok ngartis.",1,cyber_stalking
+sent_0476,"konten lu kampungan, plis deh ilang aja.",1,harassment
+sent_0477,"bakat ga ada pansos doang, ngaca dulu deh.",1,hate_speech
+sent_0478,"akting lu sok asik, ga usah sok ngartis.",1,harassment
+sent_0479,"bakat ga ada pansos doang, plis deh ilang aja.",1,hate_speech
+sent_0480,"otak cetek jelek banget, mending hapus akun.",1,harassment
+sent_0481,"otak cetek pansos doang, bikin sampah doang.",1,body_shaming
+sent_0482,"otak cetek jelek banget, plis deh ilang aja.",1,hate_speech
+sent_0483,"bakat ga ada ga mutu, ga usah sok ngartis.",1,cyber_stalking
+sent_0484,"akting lu pansos doang, mending hapus akun.",1,body_shaming
+sent_0485,"otak cetek sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0486,"bakat ga ada kampungan, ga usah sok ngartis.",1,cyber_stalking
+sent_0487,"konten lu ga mutu, plis deh ilang aja.",1,harassment
+sent_0488,"baju lu bikin enek, mending hapus akun.",1,cyber_stalking
+sent_0489,"otak cetek jelek banget, plis deh ilang aja.",1,body_shaming
+sent_0490,"bakat ga ada sok asik, mending hapus akun.",1,hate_speech
+sent_0491,"muka lu sok asik, plis deh ilang aja.",1,cyber_stalking
+sent_0492,"bakat ga ada ga mutu, ngaca dulu deh.",1,cyber_stalking
+sent_0493,"baju lu pansos doang, mending hapus akun.",1,cyber_stalking
+sent_0494,"konten lu ga mutu, ngaca dulu deh.",1,hate_speech
+sent_0495,"konten lu jelek banget, bikin sampah doang.",1,harassment
+sent_0496,"muka lu sok asik, bikin sampah doang.",1,cyber_stalking
+sent_0497,"otak cetek bikin enek, mending hapus akun.",1,body_shaming
+sent_0498,"otak cetek bikin enek, ga usah sok ngartis.",1,harassment
+sent_0499,"bakat ga ada ga mutu, bikin sampah doang.",1,harassment
+sent_0500,"muka lu jelek banget, plis deh ilang aja.",1,cyber_stalking
+sent_0501,"karyanya mantap sekali, sehat selalu.",0,neutral
+sent_0502,"semangatnya sangat menginspirasi, keep it up!",0,neutral
+sent_0503,"karyanya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0504,"karyanya adem liatnya, panutan banget.",0,neutral
+sent_0505,"public speaking-nya keren banget, sehat selalu.",0,neutral
+sent_0506,"semangatnya adem liatnya, panutan banget.",0,neutral
+sent_0507,"karyanya bagus pol, sehat selalu.",0,neutral
+sent_0508,"karyanya keren banget, sehat selalu.",0,neutral
+sent_0509,"penjelasannya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0510,"kontennya mantap sekali, panutan banget.",0,neutral
+sent_0511,"public speaking-nya adem liatnya, keep it up!",0,neutral
+sent_0512,"karyanya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0513,"semangatnya adem liatnya, sehat selalu.",0,neutral
+sent_0514,"public speaking-nya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0515,"penjelasannya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0516,"penjelasannya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0517,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0518,"aktingnya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0519,"kontennya adem liatnya, keep it up!",0,neutral
+sent_0520,"semangatnya adem liatnya, sehat selalu.",0,neutral
+sent_0521,"kontennya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0522,"public speaking-nya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0523,"karyanya mantap sekali, keep it up!",0,neutral
+sent_0524,"semangatnya bagus pol, sehat selalu.",0,neutral
+sent_0525,"aktingnya luar biasa, panutan banget.",0,neutral
+sent_0526,"semangatnya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0527,"aktingnya keren banget, panutan banget.",0,neutral
+sent_0528,"penjelasannya mantap sekali, sehat selalu.",0,neutral
+sent_0529,"semangatnya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0530,"semangatnya sangat menginspirasi, panutan banget.",0,neutral
+sent_0531,"aktingnya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0532,"semangatnya bagus pol, sehat selalu.",0,neutral
+sent_0533,"public speaking-nya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0534,"karyanya luar biasa, sehat selalu.",0,neutral
+sent_0535,"public speaking-nya adem liatnya, panutan banget.",0,neutral
+sent_0536,"public speaking-nya bagus pol, sehat selalu.",0,neutral
+sent_0537,"karyanya bagus pol, sehat selalu.",0,neutral
+sent_0538,"penjelasannya luar biasa, sukses terus ya kak!",0,neutral
+sent_0539,"kontennya adem liatnya, panutan banget.",0,neutral
+sent_0540,"kontennya mantap sekali, keep it up!",0,neutral
+sent_0541,"penjelasannya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0542,"karyanya keren banget, keep it up!",0,neutral
+sent_0543,"aktingnya bagus pol, panutan banget.",0,neutral
+sent_0544,"penjelasannya luar biasa, keep it up!",0,neutral
+sent_0545,"kontennya bagus pol, sehat selalu.",0,neutral
+sent_0546,"penjelasannya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0547,"semangatnya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0548,"penjelasannya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0549,"semangatnya sangat menginspirasi, keep it up!",0,neutral
+sent_0550,"public speaking-nya adem liatnya, sehat selalu.",0,neutral
+sent_0551,"public speaking-nya luar biasa, panutan banget.",0,neutral
+sent_0552,"kontennya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0553,"karyanya luar biasa, keep it up!",0,neutral
+sent_0554,"aktingnya bagus pol, sehat selalu.",0,neutral
+sent_0555,"penjelasannya keren banget, sehat selalu.",0,neutral
+sent_0556,"karyanya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0557,"karyanya bagus pol, sukses terus ya kak!",0,neutral
+sent_0558,"public speaking-nya sangat menginspirasi, panutan banget.",0,neutral
+sent_0559,"semangatnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0560,"public speaking-nya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0561,"karyanya luar biasa, keep it up!",0,neutral
+sent_0562,"public speaking-nya sangat menginspirasi, keep it up!",0,neutral
+sent_0563,"kontennya sangat menginspirasi, panutan banget.",0,neutral
+sent_0564,"karyanya mantap sekali, keep it up!",0,neutral
+sent_0565,"penjelasannya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0566,"penjelasannya bagus pol, sehat selalu.",0,neutral
+sent_0567,"kontennya adem liatnya, sehat selalu.",0,neutral
+sent_0568,"penjelasannya adem liatnya, sehat selalu.",0,neutral
+sent_0569,"karyanya keren banget, sukses terus ya kak!",0,neutral
+sent_0570,"kontennya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0571,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0572,"kontennya adem liatnya, sehat selalu.",0,neutral
+sent_0573,"aktingnya adem liatnya, sehat selalu.",0,neutral
+sent_0574,"semangatnya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0575,"public speaking-nya keren banget, sehat selalu.",0,neutral
+sent_0576,"public speaking-nya adem liatnya, sehat selalu.",0,neutral
+sent_0577,"kontennya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0578,"kontennya sangat menginspirasi, panutan banget.",0,neutral
+sent_0579,"karyanya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0580,"public speaking-nya bagus pol, sukses terus ya kak!",0,neutral
+sent_0581,"aktingnya luar biasa, panutan banget.",0,neutral
+sent_0582,"karyanya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0583,"public speaking-nya sangat menginspirasi, keep it up!",0,neutral
+sent_0584,"public speaking-nya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0585,"penjelasannya adem liatnya, panutan banget.",0,neutral
+sent_0586,"aktingnya bagus pol, keep it up!",0,neutral
+sent_0587,"aktingnya mantap sekali, sehat selalu.",0,neutral
+sent_0588,"aktingnya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0589,"public speaking-nya keren banget, panutan banget.",0,neutral
+sent_0590,"aktingnya mantap sekali, panutan banget.",0,neutral
+sent_0591,"penjelasannya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0592,"penjelasannya keren banget, sehat selalu.",0,neutral
+sent_0593,"semangatnya keren banget, keep it up!",0,neutral
+sent_0594,"kontennya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0595,"public speaking-nya adem liatnya, sehat selalu.",0,neutral
+sent_0596,"penjelasannya keren banget, sukses terus ya kak!",0,neutral
+sent_0597,"penjelasannya mantap sekali, panutan banget.",0,neutral
+sent_0598,"penjelasannya adem liatnya, sehat selalu.",0,neutral
+sent_0599,"semangatnya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0600,"kontennya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0601,"aktingnya bagus pol, sukses terus ya kak!",0,neutral
+sent_0602,"aktingnya mantap sekali, keep it up!",0,neutral
+sent_0603,"aktingnya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0604,"aktingnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0605,"aktingnya sangat menginspirasi, keep it up!",0,neutral
+sent_0606,"kontennya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0607,"public speaking-nya adem liatnya, panutan banget.",0,neutral
+sent_0608,"aktingnya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0609,"kontennya mantap sekali, panutan banget.",0,neutral
+sent_0610,"semangatnya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0611,"penjelasannya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0612,"kontennya sangat menginspirasi, panutan banget.",0,neutral
+sent_0613,"penjelasannya adem liatnya, keep it up!",0,neutral
+sent_0614,"semangatnya mantap sekali, keep it up!",0,neutral
+sent_0615,"public speaking-nya luar biasa, keep it up!",0,neutral
+sent_0616,"karyanya mantap sekali, sehat selalu.",0,neutral
+sent_0617,"penjelasannya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0618,"aktingnya luar biasa, keep it up!",0,neutral
+sent_0619,"aktingnya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0620,"penjelasannya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0621,"karyanya sangat menginspirasi, keep it up!",0,neutral
+sent_0622,"kontennya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0623,"semangatnya bagus pol, sehat selalu.",0,neutral
+sent_0624,"penjelasannya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0625,"karyanya mantap sekali, sehat selalu.",0,neutral
+sent_0626,"penjelasannya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0627,"public speaking-nya mantap sekali, keep it up!",0,neutral
+sent_0628,"public speaking-nya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0629,"public speaking-nya bagus pol, keep it up!",0,neutral
+sent_0630,"karyanya bagus pol, sehat selalu.",0,neutral
+sent_0631,"semangatnya adem liatnya, keep it up!",0,neutral
+sent_0632,"public speaking-nya keren banget, panutan banget.",0,neutral
+sent_0633,"kontennya bagus pol, panutan banget.",0,neutral
+sent_0634,"penjelasannya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0635,"semangatnya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0636,"public speaking-nya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0637,"aktingnya bagus pol, sukses terus ya kak!",0,neutral
+sent_0638,"semangatnya adem liatnya, panutan banget.",0,neutral
+sent_0639,"aktingnya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0640,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0641,"kontennya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0642,"karyanya keren banget, keep it up!",0,neutral
+sent_0643,"public speaking-nya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0644,"penjelasannya mantap sekali, sehat selalu.",0,neutral
+sent_0645,"karyanya adem liatnya, keep it up!",0,neutral
+sent_0646,"kontennya mantap sekali, panutan banget.",0,neutral
+sent_0647,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0648,"penjelasannya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0649,"karyanya sangat menginspirasi, keep it up!",0,neutral
+sent_0650,"penjelasannya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0651,"kontennya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0652,"aktingnya keren banget, keep it up!",0,neutral
+sent_0653,"aktingnya luar biasa, sukses terus ya kak!",0,neutral
+sent_0654,"kontennya bagus pol, sukses terus ya kak!",0,neutral
+sent_0655,"semangatnya bagus pol, keep it up!",0,neutral
+sent_0656,"public speaking-nya luar biasa, panutan banget.",0,neutral
+sent_0657,"semangatnya luar biasa, keep it up!",0,neutral
+sent_0658,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0659,"aktingnya keren banget, keep it up!",0,neutral
+sent_0660,"public speaking-nya adem liatnya, keep it up!",0,neutral
+sent_0661,"aktingnya keren banget, panutan banget.",0,neutral
+sent_0662,"karyanya bagus pol, sukses terus ya kak!",0,neutral
+sent_0663,"aktingnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0664,"kontennya keren banget, sehat selalu.",0,neutral
+sent_0665,"kontennya sangat menginspirasi, panutan banget.",0,neutral
+sent_0666,"karyanya keren banget, panutan banget.",0,neutral
+sent_0667,"semangatnya keren banget, panutan banget.",0,neutral
+sent_0668,"penjelasannya luar biasa, panutan banget.",0,neutral
+sent_0669,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0670,"semangatnya keren banget, sehat selalu.",0,neutral
+sent_0671,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0672,"penjelasannya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0673,"semangatnya adem liatnya, keep it up!",0,neutral
+sent_0674,"public speaking-nya adem liatnya, sehat selalu.",0,neutral
+sent_0675,"aktingnya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0676,"karyanya mantap sekali, panutan banget.",0,neutral
+sent_0677,"karyanya mantap sekali, panutan banget.",0,neutral
+sent_0678,"penjelasannya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0679,"semangatnya luar biasa, sehat selalu.",0,neutral
+sent_0680,"aktingnya bagus pol, panutan banget.",0,neutral
+sent_0681,"semangatnya keren banget, keep it up!",0,neutral
+sent_0682,"penjelasannya sangat menginspirasi, panutan banget.",0,neutral
+sent_0683,"kontennya keren banget, keep it up!",0,neutral
+sent_0684,"kontennya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0685,"penjelasannya sangat menginspirasi, keep it up!",0,neutral
+sent_0686,"karyanya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0687,"public speaking-nya bagus pol, sukses terus ya kak!",0,neutral
+sent_0688,"aktingnya luar biasa, sukses terus ya kak!",0,neutral
+sent_0689,"aktingnya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0690,"aktingnya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0691,"karyanya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0692,"kontennya luar biasa, sukses terus ya kak!",0,neutral
+sent_0693,"kontennya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0694,"kontennya mantap sekali, sehat selalu.",0,neutral
+sent_0695,"public speaking-nya adem liatnya, sehat selalu.",0,neutral
+sent_0696,"penjelasannya sangat menginspirasi, keep it up!",0,neutral
+sent_0697,"karyanya adem liatnya, panutan banget.",0,neutral
+sent_0698,"semangatnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0699,"kontennya bagus pol, sukses terus ya kak!",0,neutral
+sent_0700,"public speaking-nya luar biasa, keep it up!",0,neutral
+sent_0701,"kontennya mantap sekali, keep it up!",0,neutral
+sent_0702,"semangatnya luar biasa, panutan banget.",0,neutral
+sent_0703,"semangatnya keren banget, keep it up!",0,neutral
+sent_0704,"penjelasannya bagus pol, panutan banget.",0,neutral
+sent_0705,"karyanya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0706,"semangatnya luar biasa, sehat selalu.",0,neutral
+sent_0707,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0708,"karyanya adem liatnya, keep it up!",0,neutral
+sent_0709,"penjelasannya keren banget, keep it up!",0,neutral
+sent_0710,"semangatnya mantap sekali, keep it up!",0,neutral
+sent_0711,"semangatnya bagus pol, panutan banget.",0,neutral
+sent_0712,"semangatnya bagus pol, sehat selalu.",0,neutral
+sent_0713,"public speaking-nya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0714,"aktingnya sangat menginspirasi, panutan banget.",0,neutral
+sent_0715,"penjelasannya luar biasa, keep it up!",0,neutral
+sent_0716,"penjelasannya keren banget, panutan banget.",0,neutral
+sent_0717,"aktingnya keren banget, keep it up!",0,neutral
+sent_0718,"kontennya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0719,"penjelasannya keren banget, keep it up!",0,neutral
+sent_0720,"kontennya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0721,"aktingnya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0722,"public speaking-nya mantap sekali, sehat selalu.",0,neutral
+sent_0723,"penjelasannya keren banget, panutan banget.",0,neutral
+sent_0724,"penjelasannya adem liatnya, sehat selalu.",0,neutral
+sent_0725,"aktingnya mantap sekali, keep it up!",0,neutral
+sent_0726,"kontennya luar biasa, panutan banget.",0,neutral
+sent_0727,"aktingnya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0728,"semangatnya sangat menginspirasi, keep it up!",0,neutral
+sent_0729,"karyanya keren banget, keep it up!",0,neutral
+sent_0730,"public speaking-nya luar biasa, sukses terus ya kak!",0,neutral
+sent_0731,"kontennya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0732,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0733,"semangatnya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0734,"kontennya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0735,"penjelasannya mantap sekali, sehat selalu.",0,neutral
+sent_0736,"public speaking-nya mantap sekali, sehat selalu.",0,neutral
+sent_0737,"kontennya bagus pol, panutan banget.",0,neutral
+sent_0738,"penjelasannya bagus pol, keep it up!",0,neutral
+sent_0739,"kontennya bagus pol, sehat selalu.",0,neutral
+sent_0740,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0741,"penjelasannya adem liatnya, keep it up!",0,neutral
+sent_0742,"kontennya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0743,"semangatnya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0744,"penjelasannya keren banget, panutan banget.",0,neutral
+sent_0745,"aktingnya bagus pol, panutan banget.",0,neutral
+sent_0746,"penjelasannya bagus pol, keep it up!",0,neutral
+sent_0747,"aktingnya mantap sekali, sehat selalu.",0,neutral
+sent_0748,"public speaking-nya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0749,"aktingnya luar biasa, sukses terus ya kak!",0,neutral
+sent_0750,"semangatnya keren banget, sukses terus ya kak!",0,neutral
+sent_0751,"aktingnya mantap sekali, sehat selalu.",0,neutral
+sent_0752,"kontennya keren banget, sehat selalu.",0,neutral
+sent_0753,"karyanya sangat menginspirasi, panutan banget.",0,neutral
+sent_0754,"kontennya luar biasa, sukses terus ya kak!",0,neutral
+sent_0755,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0756,"kontennya keren banget, keep it up!",0,neutral
+sent_0757,"aktingnya mantap sekali, keep it up!",0,neutral
+sent_0758,"kontennya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0759,"kontennya keren banget, keep it up!",0,neutral
+sent_0760,"karyanya mantap sekali, panutan banget.",0,neutral
+sent_0761,"aktingnya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0762,"public speaking-nya luar biasa, sukses terus ya kak!",0,neutral
+sent_0763,"semangatnya keren banget, keep it up!",0,neutral
+sent_0764,"penjelasannya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0765,"public speaking-nya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0766,"semangatnya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0767,"semangatnya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0768,"penjelasannya keren banget, sukses terus ya kak!",0,neutral
+sent_0769,"aktingnya bagus pol, sehat selalu.",0,neutral
+sent_0770,"aktingnya bagus pol, keep it up!",0,neutral
+sent_0771,"penjelasannya adem liatnya, panutan banget.",0,neutral
+sent_0772,"kontennya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0773,"penjelasannya luar biasa, panutan banget.",0,neutral
+sent_0774,"public speaking-nya luar biasa, keep it up!",0,neutral
+sent_0775,"penjelasannya mantap sekali, sehat selalu.",0,neutral
+sent_0776,"kontennya bagus pol, sukses terus ya kak!",0,neutral
+sent_0777,"karyanya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0778,"kontennya mantap sekali, panutan banget.",0,neutral
+sent_0779,"aktingnya bagus pol, sukses terus ya kak!",0,neutral
+sent_0780,"karyanya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0781,"penjelasannya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0782,"penjelasannya luar biasa, sehat selalu.",0,neutral
+sent_0783,"semangatnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0784,"semangatnya bagus pol, sehat selalu.",0,neutral
+sent_0785,"penjelasannya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0786,"aktingnya luar biasa, panutan banget.",0,neutral
+sent_0787,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0788,"public speaking-nya mantap sekali, sehat selalu.",0,neutral
+sent_0789,"aktingnya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0790,"karyanya mantap sekali, keep it up!",0,neutral
+sent_0791,"kontennya luar biasa, sukses terus ya kak!",0,neutral
+sent_0792,"aktingnya bagus pol, panutan banget.",0,neutral
+sent_0793,"semangatnya adem liatnya, panutan banget.",0,neutral
+sent_0794,"karyanya mantap sekali, sehat selalu.",0,neutral
+sent_0795,"aktingnya luar biasa, panutan banget.",0,neutral
+sent_0796,"penjelasannya luar biasa, sukses terus ya kak!",0,neutral
+sent_0797,"penjelasannya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0798,"public speaking-nya adem liatnya, keep it up!",0,neutral
+sent_0799,"kontennya mantap sekali, panutan banget.",0,neutral
+sent_0800,"karyanya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0801,"aktingnya mantap sekali, sehat selalu.",0,neutral
+sent_0802,"aktingnya mantap sekali, sehat selalu.",0,neutral
+sent_0803,"aktingnya adem liatnya, keep it up!",0,neutral
+sent_0804,"kontennya adem liatnya, panutan banget.",0,neutral
+sent_0805,"semangatnya luar biasa, sehat selalu.",0,neutral
+sent_0806,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0807,"karyanya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0808,"penjelasannya keren banget, keep it up!",0,neutral
+sent_0809,"penjelasannya mantap sekali, sehat selalu.",0,neutral
+sent_0810,"kontennya keren banget, panutan banget.",0,neutral
+sent_0811,"semangatnya luar biasa, sehat selalu.",0,neutral
+sent_0812,"semangatnya sangat menginspirasi, panutan banget.",0,neutral
+sent_0813,"penjelasannya adem liatnya, sehat selalu.",0,neutral
+sent_0814,"public speaking-nya adem liatnya, sehat selalu.",0,neutral
+sent_0815,"semangatnya keren banget, panutan banget.",0,neutral
+sent_0816,"penjelasannya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0817,"public speaking-nya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0818,"karyanya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0819,"penjelasannya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0820,"aktingnya adem liatnya, sehat selalu.",0,neutral
+sent_0821,"karyanya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0822,"kontennya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0823,"public speaking-nya keren banget, sehat selalu.",0,neutral
+sent_0824,"public speaking-nya luar biasa, sehat selalu.",0,neutral
+sent_0825,"public speaking-nya mantap sekali, panutan banget.",0,neutral
+sent_0826,"penjelasannya bagus pol, panutan banget.",0,neutral
+sent_0827,"penjelasannya luar biasa, keep it up!",0,neutral
+sent_0828,"semangatnya bagus pol, keep it up!",0,neutral
+sent_0829,"penjelasannya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0830,"aktingnya luar biasa, sehat selalu.",0,neutral
+sent_0831,"public speaking-nya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0832,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0833,"public speaking-nya adem liatnya, panutan banget.",0,neutral
+sent_0834,"kontennya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0835,"kontennya adem liatnya, keep it up!",0,neutral
+sent_0836,"aktingnya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0837,"kontennya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0838,"semangatnya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0839,"karyanya bagus pol, sukses terus ya kak!",0,neutral
+sent_0840,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0841,"karyanya sangat menginspirasi, panutan banget.",0,neutral
+sent_0842,"penjelasannya bagus pol, sukses terus ya kak!",0,neutral
+sent_0843,"karyanya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0844,"penjelasannya adem liatnya, sehat selalu.",0,neutral
+sent_0845,"kontennya mantap sekali, sehat selalu.",0,neutral
+sent_0846,"kontennya keren banget, panutan banget.",0,neutral
+sent_0847,"kontennya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0848,"semangatnya luar biasa, keep it up!",0,neutral
+sent_0849,"karyanya sangat menginspirasi, panutan banget.",0,neutral
+sent_0850,"aktingnya luar biasa, panutan banget.",0,neutral
+sent_0851,"semangatnya adem liatnya, sehat selalu.",0,neutral
+sent_0852,"karyanya bagus pol, keep it up!",0,neutral
+sent_0853,"semangatnya mantap sekali, panutan banget.",0,neutral
+sent_0854,"penjelasannya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0855,"penjelasannya luar biasa, panutan banget.",0,neutral
+sent_0856,"aktingnya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0857,"penjelasannya bagus pol, panutan banget.",0,neutral
+sent_0858,"penjelasannya keren banget, keep it up!",0,neutral
+sent_0859,"kontennya mantap sekali, sehat selalu.",0,neutral
+sent_0860,"semangatnya adem liatnya, keep it up!",0,neutral
+sent_0861,"semangatnya luar biasa, sehat selalu.",0,neutral
+sent_0862,"penjelasannya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0863,"semangatnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0864,"kontennya keren banget, sehat selalu.",0,neutral
+sent_0865,"public speaking-nya keren banget, sehat selalu.",0,neutral
+sent_0866,"karyanya luar biasa, panutan banget.",0,neutral
+sent_0867,"semangatnya adem liatnya, sehat selalu.",0,neutral
+sent_0868,"penjelasannya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0869,"public speaking-nya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0870,"semangatnya mantap sekali, sehat selalu.",0,neutral
+sent_0871,"semangatnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0872,"aktingnya luar biasa, panutan banget.",0,neutral
+sent_0873,"karyanya luar biasa, panutan banget.",0,neutral
+sent_0874,"karyanya keren banget, keep it up!",0,neutral
+sent_0875,"aktingnya adem liatnya, sehat selalu.",0,neutral
+sent_0876,"penjelasannya adem liatnya, sehat selalu.",0,neutral
+sent_0877,"karyanya luar biasa, sukses terus ya kak!",0,neutral
+sent_0878,"semangatnya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0879,"public speaking-nya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0880,"aktingnya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0881,"penjelasannya keren banget, keep it up!",0,neutral
+sent_0882,"karyanya luar biasa, sehat selalu.",0,neutral
+sent_0883,"public speaking-nya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0884,"public speaking-nya bagus pol, panutan banget.",0,neutral
+sent_0885,"public speaking-nya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0886,"public speaking-nya keren banget, sehat selalu.",0,neutral
+sent_0887,"semangatnya keren banget, keep it up!",0,neutral
+sent_0888,"kontennya keren banget, sukses terus ya kak!",0,neutral
+sent_0889,"aktingnya mantap sekali, panutan banget.",0,neutral
+sent_0890,"karyanya bagus pol, panutan banget.",0,neutral
+sent_0891,"aktingnya mantap sekali, panutan banget.",0,neutral
+sent_0892,"penjelasannya keren banget, keep it up!",0,neutral
+sent_0893,"penjelasannya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0894,"semangatnya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0895,"penjelasannya adem liatnya, keep it up!",0,neutral
+sent_0896,"public speaking-nya sangat menginspirasi, keep it up!",0,neutral
+sent_0897,"penjelasannya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0898,"kontennya mantap sekali, panutan banget.",0,neutral
+sent_0899,"kontennya mantap sekali, sehat selalu.",0,neutral
+sent_0900,"public speaking-nya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0901,"penjelasannya luar biasa, sukses terus ya kak!",0,neutral
+sent_0902,"aktingnya keren banget, keep it up!",0,neutral
+sent_0903,"aktingnya adem liatnya, panutan banget.",0,neutral
+sent_0904,"semangatnya luar biasa, sukses terus ya kak!",0,neutral
+sent_0905,"karyanya mantap sekali, sehat selalu.",0,neutral
+sent_0906,"penjelasannya adem liatnya, panutan banget.",0,neutral
+sent_0907,"public speaking-nya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0908,"kontennya bagus pol, keep it up!",0,neutral
+sent_0909,"kontennya bagus pol, sukses terus ya kak!",0,neutral
+sent_0910,"penjelasannya luar biasa, panutan banget.",0,neutral
+sent_0911,"public speaking-nya mantap sekali, panutan banget.",0,neutral
+sent_0912,"aktingnya keren banget, sehat selalu.",0,neutral
+sent_0913,"penjelasannya adem liatnya, sehat selalu.",0,neutral
+sent_0914,"aktingnya sangat menginspirasi, keep it up!",0,neutral
+sent_0915,"semangatnya luar biasa, keep it up!",0,neutral
+sent_0916,"karyanya luar biasa, sukses terus ya kak!",0,neutral
+sent_0917,"aktingnya sangat menginspirasi, panutan banget.",0,neutral
+sent_0918,"aktingnya luar biasa, sehat selalu.",0,neutral
+sent_0919,"penjelasannya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0920,"public speaking-nya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0921,"public speaking-nya bagus pol, panutan banget.",0,neutral
+sent_0922,"public speaking-nya keren banget, keep it up!",0,neutral
+sent_0923,"public speaking-nya mantap sekali, keep it up!",0,neutral
+sent_0924,"public speaking-nya mantap sekali, panutan banget.",0,neutral
+sent_0925,"karyanya luar biasa, sehat selalu.",0,neutral
+sent_0926,"public speaking-nya bagus pol, panutan banget.",0,neutral
+sent_0927,"kontennya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0928,"semangatnya sangat menginspirasi, keep it up!",0,neutral
+sent_0929,"kontennya luar biasa, sehat selalu.",0,neutral
+sent_0930,"aktingnya bagus pol, sehat selalu.",0,neutral
+sent_0931,"penjelasannya adem liatnya, panutan banget.",0,neutral
+sent_0932,"semangatnya luar biasa, sehat selalu.",0,neutral
+sent_0933,"penjelasannya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0934,"public speaking-nya bagus pol, keep it up!",0,neutral
+sent_0935,"karyanya mantap sekali, panutan banget.",0,neutral
+sent_0936,"semangatnya mantap sekali, sehat selalu.",0,neutral
+sent_0937,"kontennya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0938,"semangatnya adem liatnya, keep it up!",0,neutral
+sent_0939,"kontennya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0940,"karyanya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0941,"penjelasannya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0942,"kontennya bagus pol, keep it up!",0,neutral
+sent_0943,"semangatnya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0944,"kontennya adem liatnya, keep it up!",0,neutral
+sent_0945,"penjelasannya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0946,"aktingnya sangat menginspirasi, panutan banget.",0,neutral
+sent_0947,"aktingnya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0948,"public speaking-nya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0949,"public speaking-nya keren banget, sehat selalu.",0,neutral
+sent_0950,"penjelasannya bagus pol, sehat selalu.",0,neutral
+sent_0951,"semangatnya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0952,"aktingnya luar biasa, sukses terus ya kak!",0,neutral
+sent_0953,"penjelasannya bagus pol, ga sabar nunggu next konten.",0,neutral
+sent_0954,"karyanya adem liatnya, keep it up!",0,neutral
+sent_0955,"semangatnya sangat menginspirasi, panutan banget.",0,neutral
+sent_0956,"penjelasannya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0957,"karyanya mantap sekali, sehat selalu.",0,neutral
+sent_0958,"public speaking-nya luar biasa, keep it up!",0,neutral
+sent_0959,"public speaking-nya adem liatnya, sehat selalu.",0,neutral
+sent_0960,"kontennya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0961,"karyanya adem liatnya, sehat selalu.",0,neutral
+sent_0962,"semangatnya bagus pol, sehat selalu.",0,neutral
+sent_0963,"semangatnya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0964,"aktingnya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0965,"penjelasannya mantap sekali, sehat selalu.",0,neutral
+sent_0966,"kontennya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0967,"penjelasannya keren banget, keep it up!",0,neutral
+sent_0968,"penjelasannya mantap sekali, keep it up!",0,neutral
+sent_0969,"kontennya bagus pol, sehat selalu.",0,neutral
+sent_0970,"public speaking-nya sangat menginspirasi, sukses terus ya kak!",0,neutral
+sent_0971,"karyanya adem liatnya, ga sabar nunggu next konten.",0,neutral
+sent_0972,"penjelasannya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0973,"karyanya keren banget, sukses terus ya kak!",0,neutral
+sent_0974,"public speaking-nya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0975,"penjelasannya keren banget, panutan banget.",0,neutral
+sent_0976,"public speaking-nya mantap sekali, sukses terus ya kak!",0,neutral
+sent_0977,"kontennya luar biasa, panutan banget.",0,neutral
+sent_0978,"karyanya keren banget, ga sabar nunggu next konten.",0,neutral
+sent_0979,"penjelasannya mantap sekali, sehat selalu.",0,neutral
+sent_0980,"aktingnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0981,"kontennya keren banget, panutan banget.",0,neutral
+sent_0982,"aktingnya mantap sekali, keep it up!",0,neutral
+sent_0983,"kontennya sangat menginspirasi, panutan banget.",0,neutral
+sent_0984,"penjelasannya mantap sekali, panutan banget.",0,neutral
+sent_0985,"semangatnya sangat menginspirasi, sehat selalu.",0,neutral
+sent_0986,"kontennya mantap sekali, keep it up!",0,neutral
+sent_0987,"aktingnya bagus pol, sukses terus ya kak!",0,neutral
+sent_0988,"penjelasannya adem liatnya, panutan banget.",0,neutral
+sent_0989,"public speaking-nya luar biasa, ga sabar nunggu next konten.",0,neutral
+sent_0990,"semangatnya sangat menginspirasi, panutan banget.",0,neutral
+sent_0991,"semangatnya bagus pol, keep it up!",0,neutral
+sent_0992,"kontennya keren banget, panutan banget.",0,neutral
+sent_0993,"aktingnya luar biasa, sehat selalu.",0,neutral
+sent_0994,"kontennya adem liatnya, sukses terus ya kak!",0,neutral
+sent_0995,"penjelasannya luar biasa, keep it up!",0,neutral
+sent_0996,"aktingnya mantap sekali, ga sabar nunggu next konten.",0,neutral
+sent_0997,"kontennya sangat menginspirasi, ga sabar nunggu next konten.",0,neutral
+sent_0998,"public speaking-nya bagus pol, sukses terus ya kak!",0,neutral
+sent_0999,"kontennya keren banget, sukses terus ya kak!",0,neutral
+sent_1000,"semangatnya keren banget, ga sabar nunggu next konten.",0,neutral
